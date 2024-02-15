@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GeekBrains\\C#_edu\\C-_edu\\hw_3\\hw_3.csproj": {}
+    "C:\\GeekBrains\\C#_edu\\C-_edu\\hw_3\\hw_3_3\\hw_3_3.csproj": {}
   },
   "projects": {
-    "C:\\GeekBrains\\C#_edu\\C-_edu\\hw_3\\hw_3.csproj": {
+    "C:\\GeekBrains\\C#_edu\\C-_edu\\hw_3\\hw_3_3\\hw_3_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GeekBrains\\C#_edu\\C-_edu\\hw_3\\hw_3.csproj",
-        "projectName": "hw_3",
-        "projectPath": "C:\\GeekBrains\\C#_edu\\C-_edu\\hw_3\\hw_3.csproj",
+        "projectUniqueName": "C:\\GeekBrains\\C#_edu\\C-_edu\\hw_3\\hw_3_3\\hw_3_3.csproj",
+        "projectName": "hw_3_3",
+        "projectPath": "C:\\GeekBrains\\C#_edu\\C-_edu\\hw_3\\hw_3_3\\hw_3_3.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\GeekBrains\\C#_edu\\C-_edu\\hw_3\\obj\\",
+        "outputPath": "C:\\GeekBrains\\C#_edu\\C-_edu\\hw_3\\hw_3_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
