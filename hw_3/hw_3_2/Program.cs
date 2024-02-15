@@ -15,15 +15,15 @@ int[] CreateArray(int size, int minRange, int maxRange)
     return array;
 }
 
-int GetCount (int[] arr)
+int GetCount(int[] arr)
 {
     int count = 0;
     for (int i = 0; i < arr.Length; i++)
     {
-       // && - "и" (апельсины И яблоки)
-       if (arr[i] % 2 == 0 )
-       {
-        
+        // && - "и" (апельсины И яблоки)
+        if (arr[i] % 2 == 0)
+        {
+
             count++;
         }
     }
