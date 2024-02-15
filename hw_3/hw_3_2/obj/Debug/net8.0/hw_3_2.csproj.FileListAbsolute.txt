@@ -1,0 +1,15 @@
+C:\GeekBrains\C#_edu\C-_edu\hw_3\hw_3_2\obj\Debug\net8.0\hw_3_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\C#_edu\C-_edu\hw_3\hw_3_2\obj\Debug\net8.0\hw_3_2.AssemblyInfoInputs.cache
+C:\GeekBrains\C#_edu\C-_edu\hw_3\hw_3_2\obj\Debug\net8.0\hw_3_2.AssemblyInfo.cs
+C:\GeekBrains\C#_edu\C-_edu\hw_3\hw_3_2\obj\Debug\net8.0\hw_3_2.csproj.CoreCompileInputs.cache
+C:\GeekBrains\C#_edu\C-_edu\hw_3\hw_3_2\obj\Debug\net8.0\hw_3_2.sourcelink.json
+C:\GeekBrains\C#_edu\C-_edu\hw_3\hw_3_2\bin\Debug\net8.0\hw_3_2.exe
+C:\GeekBrains\C#_edu\C-_edu\hw_3\hw_3_2\bin\Debug\net8.0\hw_3_2.deps.json
+C:\GeekBrains\C#_edu\C-_edu\hw_3\hw_3_2\bin\Debug\net8.0\hw_3_2.runtimeconfig.json
+C:\GeekBrains\C#_edu\C-_edu\hw_3\hw_3_2\bin\Debug\net8.0\hw_3_2.dll
+C:\GeekBrains\C#_edu\C-_edu\hw_3\hw_3_2\bin\Debug\net8.0\hw_3_2.pdb
+C:\GeekBrains\C#_edu\C-_edu\hw_3\hw_3_2\obj\Debug\net8.0\hw_3_2.dll
+C:\GeekBrains\C#_edu\C-_edu\hw_3\hw_3_2\obj\Debug\net8.0\refint\hw_3_2.dll
+C:\GeekBrains\C#_edu\C-_edu\hw_3\hw_3_2\obj\Debug\net8.0\hw_3_2.pdb
+C:\GeekBrains\C#_edu\C-_edu\hw_3\hw_3_2\obj\Debug\net8.0\hw_3_2.genruntimeconfig.cache
+C:\GeekBrains\C#_edu\C-_edu\hw_3\hw_3_2\obj\Debug\net8.0\ref\hw_3_2.dll
