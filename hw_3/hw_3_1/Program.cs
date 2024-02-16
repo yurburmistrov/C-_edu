@@ -10,11 +10,21 @@
     if (int.TryParse(text, out number)) // == true, строчка состоит из цифр
     {
         int sum = 0;
-        ...
-if (sum % 2 == 0)
+        
+        while (number > 0) // Вычисление суммы цифр числа
+        {
+            sum += number % 10; // Добавление последней цифры к сумме
+            number=number/10;
+        }
+    
+
+    if (sum % 2 == 0)
         {
             break;
         }
+
+
     }
+    
 }
 
