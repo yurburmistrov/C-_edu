@@ -10,6 +10,11 @@
 
     else
         return FuncAckerman(n - 1, FuncAckerman(n, m - 1));
+    
 }
 
-Console.WriteLine(FuncAckerman(3, 5));
+Console.Write("Введите неотрицательноечисло n: ");
+int n = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите неотрицательное число m: ");
+int m = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine($"Результат: {FuncAckerman(n,m)}");
