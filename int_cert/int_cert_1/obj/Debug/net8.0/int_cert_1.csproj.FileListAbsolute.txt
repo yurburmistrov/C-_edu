@@ -1,0 +1,15 @@
+C:\GeekBrains\C#_edu\C-_edu\int_cert\int_cert_1\bin\Debug\net8.0\int_cert_1.exe
+C:\GeekBrains\C#_edu\C-_edu\int_cert\int_cert_1\bin\Debug\net8.0\int_cert_1.deps.json
+C:\GeekBrains\C#_edu\C-_edu\int_cert\int_cert_1\bin\Debug\net8.0\int_cert_1.runtimeconfig.json
+C:\GeekBrains\C#_edu\C-_edu\int_cert\int_cert_1\bin\Debug\net8.0\int_cert_1.dll
+C:\GeekBrains\C#_edu\C-_edu\int_cert\int_cert_1\bin\Debug\net8.0\int_cert_1.pdb
+C:\GeekBrains\C#_edu\C-_edu\int_cert\int_cert_1\obj\Debug\net8.0\int_cert_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\C#_edu\C-_edu\int_cert\int_cert_1\obj\Debug\net8.0\int_cert_1.AssemblyInfoInputs.cache
+C:\GeekBrains\C#_edu\C-_edu\int_cert\int_cert_1\obj\Debug\net8.0\int_cert_1.AssemblyInfo.cs
+C:\GeekBrains\C#_edu\C-_edu\int_cert\int_cert_1\obj\Debug\net8.0\int_cert_1.csproj.CoreCompileInputs.cache
+C:\GeekBrains\C#_edu\C-_edu\int_cert\int_cert_1\obj\Debug\net8.0\int_cert_1.sourcelink.json
+C:\GeekBrains\C#_edu\C-_edu\int_cert\int_cert_1\obj\Debug\net8.0\int_cert_1.dll
+C:\GeekBrains\C#_edu\C-_edu\int_cert\int_cert_1\obj\Debug\net8.0\refint\int_cert_1.dll
+C:\GeekBrains\C#_edu\C-_edu\int_cert\int_cert_1\obj\Debug\net8.0\int_cert_1.pdb
+C:\GeekBrains\C#_edu\C-_edu\int_cert\int_cert_1\obj\Debug\net8.0\int_cert_1.genruntimeconfig.cache
+C:\GeekBrains\C#_edu\C-_edu\int_cert\int_cert_1\obj\Debug\net8.0\ref\int_cert_1.dll
